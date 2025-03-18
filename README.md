@@ -1,1 +1,0 @@
-# Var_Ambiente_Docker
